@@ -20,11 +20,13 @@ input[type='text']{
 }
 
 input[type='number']{
-    width: 97%;
+    width: 50px;
     padding: 4px;
     border-radius: 5px;
     border: 1px #ccc solid;
 }
+
+
 
 .container{
     width: 60%;
