@@ -68,6 +68,10 @@ label{
     width: 180px;
 }
 
+.added{
+    color: lime; 
+}
+
 @media only screen and (max-width: 960px){
     .container{
         width: 80%;
